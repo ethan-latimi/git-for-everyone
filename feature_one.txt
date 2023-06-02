@@ -1,0 +1,2 @@
+This is Minsu Cho who is learning Git and Github.
+I am now learning how to use branches.
